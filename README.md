@@ -66,25 +66,25 @@ git clone https://github.com/myyla/GestionBancaire
 ## Captures d'écran
 Voici quelques captures d'écran de l'application :
 
-![IMG-1](https://github.com/myyla/GestionBancaire/assets/96894475/80a17d53-49e9-4667-a452-77b53ab70608)
+![IMG-1](https://github.com/myyla/GestionBancaire/assets/96894475/88e44d56-ec79-4485-b006-7d69e2496da8)
 
 
-![IMG-2](https://github.com/myyla/GestionBancaire/assets/96894475/21b2e491-c8c6-4e48-b069-6cde822c5b44)
+![IMG-2](https://github.com/myyla/GestionBancaire/assets/96894475/4be8cea5-f28f-455a-b7eb-31c457029ad8)
 
 
-![IMG-3](https://github.com/myyla/GestionBancaire/assets/96894475/a20087de-ed9e-4fc6-a66d-b7eb25447256)
+![IMG-3](https://github.com/myyla/GestionBancaire/assets/96894475/925127e0-4e04-4d13-93e3-f552154b2cb7)
 
 
-![IMG-4](https://github.com/myyla/GestionBancaire/assets/96894475/881dc57c-5650-42b9-9448-681f8c7ab0c6)
+![IMG-4](https://github.com/myyla/GestionBancaire/assets/96894475/a0927045-127c-4d72-ab86-133bdbe4215b)
 
 
-![IMG-5](https://github.com/myyla/GestionBancaire/assets/96894475/ec2a8336-ae11-4277-b26a-09d6161abddb)
+![IMG-5](https://github.com/myyla/GestionBancaire/assets/96894475/57968f62-7b35-4cbf-a675-4f908ad32c0f)
 
 
-![IMG-6](https://github.com/myyla/GestionBancaire/assets/96894475/311ab114-a7e0-4e51-a68e-61f3c0540ba2)
+![IMG-6](https://github.com/myyla/GestionBancaire/assets/96894475/ccbd90b6-968e-4798-a068-37dd2549c733)
 
 
-![IMG-7](https://github.com/myyla/GestionBancaire/assets/96894475/3cf67afa-6489-48b9-951a-2a20097c2648)
+![IMG-7](https://github.com/myyla/GestionBancaire/assets/96894475/dc2421d9-aff2-49c1-91cc-9ca68cc7870a)
 
 ## Auteurs
 Ce projet a été initialement créé par [AMAL TOUHAMI] sous l'encadrement du Professeur [HASSAN ZILI]. 
