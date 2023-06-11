@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TopHeader.master.cs" Inherits="Gestion_Bancaire.TopHeader" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Gestion Bancaire </title>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        
+        .header {
+            background-color: darkviolet;
+            width: auto;
+            height: 30px;
+            padding-top: 5px;
+        }
+        
+        .header span {
+            color: whitesmoke;
+            font-weight: 200;
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="background-color: snow">
+            <div align="center" class="header">
+                <span>Gestion Bancaire</span>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
