@@ -1,5 +1,4 @@
-# Gestion de Banque - Readme
-
+# Gestion de Banque 
 ## Description du Projet
 Ce projet vise à développer une application desktop pour gérer les opérations courantes d'une banque en utilisant le framework .NET et la base de données SQL Server. L'application permettra aux utilisateurs de gérer les comptes clients, les opérations bancaires, les transferts, les dépôts, les retraits, etc.
 
